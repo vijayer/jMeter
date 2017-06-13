@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="5175" lt="1061" ts="1497284915322" s="true" lb="HomePage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="73955" ng="1" na="1">
+  <httpSample t="1061" lt="1061" ts="1497284915322" s="true" lb="http://www.care.com/" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="509" ng="1" na="1"/>
+  <httpSample t="4111" lt="2134" ts="1497284916386" s="true" lb="https://www.care.com/" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="73446" ng="1" na="1"/>
+</httpSample>
+<httpSample t="1614" lt="374" ts="1497284920503" s="true" lb="LoginPage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="48543" ng="1" na="1">
+  <httpSample t="374" lt="374" ts="1497284920503" s="true" lb="http://www.care.com/login" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="" by="1038" ng="1" na="1"/>
+  <httpSample t="284" lt="284" ts="1497284920877" s="true" lb="http://www.care.com/login-p1002-q50606147.html" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="1098" ng="1" na="1"/>
+  <httpSample t="956" lt="492" ts="1497284921161" s="true" lb="https://www.care.com/login-p1002-q50606147.html" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="46407" ng="1" na="1"/>
+</httpSample>
+<httpSample t="974" lt="292" ts="1497284922118" s="true" lb="EnrollPage" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="28570" ng="1" na="1">
+  <httpSample t="292" lt="292" ts="1497284922118" s="true" lb="http://www.care.com/enroll" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="" by="1051" ng="1" na="1"/>
+  <httpSample t="290" lt="290" ts="1497284922410" s="true" lb="http://www.care.com/enroll-care-seeker-p1042-q88037449.html" rc="301" rm="Moved Permanently" tn="Thread Group 1-1" dt="text" by="1111" ng="1" na="1"/>
+  <httpSample t="391" lt="377" ts="1497284922701" s="true" lb="https://www.care.com/enroll-care-seeker-p1042-q88037449.html" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="26408" ng="1" na="1"/>
+</httpSample>
+
+</testResults>
